@@ -1,4 +1,5 @@
 
+#  zugzug.py
 """_summary_"""
 def suma(a: int, b: int) -> int:
     """
@@ -11,5 +12,4 @@ def suma(a: int, b: int) -> int:
         :return: Description
         :rtype: int
     """
-    x = "no se usa"
     return a+ b
